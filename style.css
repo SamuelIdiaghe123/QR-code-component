@@ -1,0 +1,19 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: hsl(212, 45%, 89%)!important;
+}
+
+.card{
+    width: 370px !important;
+}
+
+.card p{
+    color: hsl(220, 15%, 55%) !important ;
+    font-weight: 400;
+}
+
+.card h3{
+    font-weight: 700;
+}
